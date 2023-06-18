@@ -3,5 +3,5 @@
 - 🐏: Member of the GDUT
 - 👀: Focusing on  JAVA、Python
 - 🌱: Learning DRL
-- 📫: 1017328759@qq.com
+- 📫: junhong1013@163.com
 
